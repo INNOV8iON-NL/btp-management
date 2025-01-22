@@ -1,3 +1,11 @@
 *.swp
 *.json
 .DS_Store
+# DO NOT TRACK THE SYM LINKS
+exercises/05-core-services-api-prep/get_cf_api_endpoint
+exercises/06-core-services-api-creds/generate-password-grant-type
+exercises/06-core-services-api-creds/get_cf_api_endpoint
+exercises/06-core-services-api-creds/lib.sh
+exercises/07-core-services-api-call/call-entitlements-service-regions-api
+exercises/07-core-services-api-call/lib.sh
+exercises/08-guids-and-resource-creation/btpguid
