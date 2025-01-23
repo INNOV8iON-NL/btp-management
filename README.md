@@ -37,7 +37,8 @@ The instructor will set you off on the first exercise, and that's the only one y
 1. [Making the API call and understanding the results](exercises/07-core-services-api-call/README.md)
 1. [More on GUIDs, and resource creation with the btp CLI](exercises/08-guids-and-resource-creation/README.md)
 1. [Deleting resources with the API](exercises/09-deleting-resources-with-api/README.md)
-1. [Terraform 101](exercises/10-terraform/README.md)
+1. [Manually (ClickOps) Provisioning a SAP BTP Landscape](exercises/10-ClickOps/README.md)
+1. [Provisioning a SAP BTP Landscape with Terraform](exercises/11-terraform/README.md)
 
 ## Scripts
 
